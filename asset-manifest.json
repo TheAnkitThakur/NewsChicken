@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TheAnkitThakur/NewsChicken/static/css/main.abd64e84.css",
+    "main.js": "/TheAnkitThakur/NewsChicken/static/js/main.b1c51def.js",
+    "static/js/787.0083a446.chunk.js": "/TheAnkitThakur/NewsChicken/static/js/787.0083a446.chunk.js",
+    "index.html": "/TheAnkitThakur/NewsChicken/index.html",
+    "main.abd64e84.css.map": "/TheAnkitThakur/NewsChicken/static/css/main.abd64e84.css.map",
+    "main.b1c51def.js.map": "/TheAnkitThakur/NewsChicken/static/js/main.b1c51def.js.map",
+    "787.0083a446.chunk.js.map": "/TheAnkitThakur/NewsChicken/static/js/787.0083a446.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.b1c51def.js"
+  ]
+}
